@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/prathamesh-b.github.io/static/css/main.c13a7cc5.chunk.css",
+    "main.js": "/prathamesh-b.github.io/static/js/main.dc918283.chunk.js",
+    "main.js.map": "/prathamesh-b.github.io/static/js/main.dc918283.chunk.js.map",
+    "runtime-main.js": "/prathamesh-b.github.io/static/js/runtime-main.5e2bc346.js",
+    "runtime-main.js.map": "/prathamesh-b.github.io/static/js/runtime-main.5e2bc346.js.map",
+    "static/js/2.5a57201b.chunk.js": "/prathamesh-b.github.io/static/js/2.5a57201b.chunk.js",
+    "static/js/2.5a57201b.chunk.js.map": "/prathamesh-b.github.io/static/js/2.5a57201b.chunk.js.map",
+    "index.html": "/prathamesh-b.github.io/index.html",
+    "static/css/main.c13a7cc5.chunk.css.map": "/prathamesh-b.github.io/static/css/main.c13a7cc5.chunk.css.map",
+    "static/js/2.5a57201b.chunk.js.LICENSE.txt": "/prathamesh-b.github.io/static/js/2.5a57201b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e2bc346.js",
+    "static/js/2.5a57201b.chunk.js",
+    "static/css/main.c13a7cc5.chunk.css",
+    "static/js/main.dc918283.chunk.js"
+  ]
+}
