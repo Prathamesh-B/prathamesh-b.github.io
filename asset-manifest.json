@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/prathamesh-b.github.io/static/css/main.c13a7cc5.chunk.css",
-    "main.js": "/prathamesh-b.github.io/static/js/main.77cf9e6d.chunk.js",
-    "main.js.map": "/prathamesh-b.github.io/static/js/main.77cf9e6d.chunk.js.map",
-    "runtime-main.js": "/prathamesh-b.github.io/static/js/runtime-main.5e2bc346.js",
-    "runtime-main.js.map": "/prathamesh-b.github.io/static/js/runtime-main.5e2bc346.js.map",
-    "static/js/2.5a57201b.chunk.js": "/prathamesh-b.github.io/static/js/2.5a57201b.chunk.js",
-    "static/js/2.5a57201b.chunk.js.map": "/prathamesh-b.github.io/static/js/2.5a57201b.chunk.js.map",
-    "index.html": "/prathamesh-b.github.io/index.html",
-    "static/css/main.c13a7cc5.chunk.css.map": "/prathamesh-b.github.io/static/css/main.c13a7cc5.chunk.css.map",
-    "static/js/2.5a57201b.chunk.js.LICENSE.txt": "/prathamesh-b.github.io/static/js/2.5a57201b.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.c13a7cc5.chunk.css",
+    "main.js": "/static/js/main.03c21b63.chunk.js",
+    "main.js.map": "/static/js/main.03c21b63.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f027f2bf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f027f2bf.js.map",
+    "static/js/2.5a57201b.chunk.js": "/static/js/2.5a57201b.chunk.js",
+    "static/js/2.5a57201b.chunk.js.map": "/static/js/2.5a57201b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c13a7cc5.chunk.css.map": "/static/css/main.c13a7cc5.chunk.css.map",
+    "static/js/2.5a57201b.chunk.js.LICENSE.txt": "/static/js/2.5a57201b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5e2bc346.js",
+    "static/js/runtime-main.f027f2bf.js",
     "static/js/2.5a57201b.chunk.js",
     "static/css/main.c13a7cc5.chunk.css",
-    "static/js/main.77cf9e6d.chunk.js"
+    "static/js/main.03c21b63.chunk.js"
   ]
 }
