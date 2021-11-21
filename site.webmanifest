@@ -1,5 +1,5 @@
 {
-    "name": "Personal Portfolio Website",
+    "name": "Prathamesh Bhalekar Portfolio",
     "short_name": "Portfolio",
     "icons": [
         {
@@ -20,7 +20,7 @@
         }
     ],
     "start_url": "/",
-    "theme_color": "#ffffff",
+    "theme_color": "#babcc9",
     "background_color": "#ffffff",
     "display": "standalone"
 }
