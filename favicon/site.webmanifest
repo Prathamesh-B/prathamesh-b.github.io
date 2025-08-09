@@ -1,6 +1,9 @@
 {
-  "name": "Prathamesh B - Portfolio",
-  "short_name": "Portfolio",
+  "name": "Prathamesh Bhalekar - Full Stack Developer & Software Engineer",
+  "short_name": "Prathamesh Bhalekar",
+  "description": "Portfolio of Prathamesh Bhalekar - Full Stack Developer and Software Engineer from Pune, India",
+  "start_url": "/",
+  "scope": "/",
   "icons": [
     {
       "src": "/favicon/web-app-manifest-192x192.png",
@@ -13,9 +16,19 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
+    },
+    {
+      "src": "/favicon/favicon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any"
     }
   ],
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
-  "display": "standalone"
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "categories": ["portfolio", "developer", "software", "fullstack", "programming"],
+  "lang": "en-US",
+  "dir": "ltr"
 }
