@@ -1,0 +1,32 @@
+/* TEAM */
+Developer: Prathamesh Bhalekar
+Location: Pune, India
+GitHub: https://github.com/Prathamesh-B
+Portfolio: https://prathamesh-b.github.io/
+LinkedIn: https://www.linkedin.com/in/bhalekar-prathamesh/
+
+/* BIO */
+Short: Curious and creative developer who builds meaningful digital experiences.
+Interests: Clean code, intuitive design, AI/ML, open-source, Android, embedded systems (Arduino).
+Hobbies: Sketching, drawing, chess.
+
+/* SELECT PROJECTS */
+Resume Analyzer : https://github.com/Prathamesh-B/resume_analyzer
+FindYourRent : https://github.com/Prathamesh-B/find-your-rent
+Inford (PyPI) : https://pypi.org/project/inford/  •  https://github.com/Prathamesh-B/inford
+Arduino RFID Attendance System : https://github.com/Prathamesh-B/Arduino-RFID-Attendance-System
+
+/* TECH & TOOLS */
+Languages: Java, Python, JavaScript, C, PHP, HTML, CSS
+Frontend: React, Next.js, Tailwind CSS
+Backend: Django, Flask, Spring Boot, Express
+Databases: PostgreSQL, MySQL, MongoDB
+Tools: Android Studio, Git, Docker, Vercel, Linux, Figma
+
+/* ACKNOWLEDGEMENTS */
+Thanks to open-source authors and communities. Built with curiosity and open source.
+
+Last updated: 2025-08-08
+
+/* EASTER EGG */
+If you found this file: nice!
