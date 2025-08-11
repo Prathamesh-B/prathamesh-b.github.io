@@ -222,12 +222,7 @@ I believe in staying updated, staying curious, and always creating something a l
 
 - Available on [PyPI](https://pypi.org/project/inford/)
 - Simplifies integration with **Discord Webhooks**
-- Designed for **ease of use** and **developer productivity**`,logo:"https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/zohomail.svg",isExpanded:!1,images:["./images/projects/inford/img-1.webp","./images/projects/inford/img-2.webp"]},{id:"alt-text-generator-framer-plugin",title:"Alt Text Generator Framer Plugin",date:"06.2025",link:"https://github.com/Prathamesh-B/framer-alt-text-plugin",skills:["Framer","Google Gemini API","JavaScript"],description:`A Framer plugin that automatically generates concise, descriptive alt text for images on your canvas using **Google's Gemini API** to improve accessibility.
-
-- **Automatic Alt Text Generation** for all images on the canvas  
-- **Manual Editing** with in-plugin save  
-- **Batch Support** for multiple images  
-- **Permission Awareness** for restricted editing`,isExpanded:!1,images:["./images/projects/framer_alt_text_plugin/img-1.webp"]},{id:"pokequizzer",title:"PokeQuizzer",date:"06.2025",link:"https://github.com/Prathamesh-B/PokeQuizzer",skills:["JavaScript","Pokémon API","Web Development"],description:`A Pokémon quiz game featuring **all regions** with three quiz types and multiple difficulty levels.
+- Designed for **ease of use** and **developer productivity**`,logo:"https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/zohomail.svg",isExpanded:!1,images:["./images/projects/inford/img-1.webp","./images/projects/inford/img-2.webp"]},{id:"pokequizzer",title:"PokeQuizzer",date:"06.2025",link:"https://github.com/Prathamesh-B/PokeQuizzer",skills:["JavaScript","Pokémon API","Web Development"],description:`A Pokémon quiz game featuring **all regions** with three quiz types and multiple difficulty levels.
 
 **Quiz Types**
 - **Type Quiz** — Guess the Pokémon's primary type  
@@ -237,7 +232,12 @@ I believe in staying updated, staying curious, and always creating something a l
 **Difficulty Levels**
 - **Easy** — 5 questions, Pokémon #1–151  
 - **Medium** — 8 questions, Pokémon #1–386  
-- **Hard** — 10 questions, Pokémon #1–809`,logo:"./images/projects/pokequizzer/logo.ico",isExpanded:!1,images:["./images/projects/pokequizzer/img-1.webp","./images/projects/pokequizzer/img-2.webp","./images/projects/pokequizzer/img-3.webp","./images/projects/pokequizzer/img-4.webp","./images/projects/pokequizzer/img-5.webp"]},{id:"kick-off-squad",title:"Kick Off Squad",date:"10.2024",link:"https://github.com/Prathamesh-B/kick-off-squad",skills:["JavaScript","Team Management","Algorithm Design"],description:`A football event management app that helps organize matches and auto-generate balanced teams.
+- **Hard** — 10 questions, Pokémon #1–809`,logo:"./images/projects/pokequizzer/logo.ico",isExpanded:!1,images:["./images/projects/pokequizzer/img-1.webp","./images/projects/pokequizzer/img-2.webp","./images/projects/pokequizzer/img-3.webp","./images/projects/pokequizzer/img-4.webp","./images/projects/pokequizzer/img-5.webp"]},{id:"alt-text-generator-framer-plugin",title:"Alt Text Generator Framer Plugin",date:"06.2025",link:"https://github.com/Prathamesh-B/framer-alt-text-plugin",skills:["Framer","Google Gemini API","JavaScript"],description:`A Framer plugin that automatically generates concise, descriptive alt text for images on your canvas using **Google's Gemini API** to improve accessibility.
+
+- **Automatic Alt Text Generation** for all images on the canvas  
+- **Manual Editing** with in-plugin save  
+- **Batch Support** for multiple images  
+- **Permission Awareness** for restricted editing`,isExpanded:!1,images:["./images/projects/framer_alt_text_plugin/img-1.webp"]},{id:"kick-off-squad",title:"Kick Off Squad",date:"10.2024",link:"https://github.com/Prathamesh-B/kick-off-squad",skills:["JavaScript","Team Management","Algorithm Design"],description:`A football event management app that helps organize matches and auto-generate balanced teams.
 
 - **Easy Registration** for players with skill levels  
 - **Smart Team Generation** using custom algorithms  
@@ -247,7 +247,7 @@ I believe in staying updated, staying curious, and always creating something a l
 - **Customizable Themes** for different visual styles  
 - Shows stats for **Rapid, Bullet, and Blitz** modes  
 - **Error Handling** for missing or invalid usernames  
-- Option to **disable animations** in generated SVGs`,logo:"https://chesscom-stats-svg.vercel.app/favicon.ico",isExpanded:!1},{id:"rfid-attendance",title:"Arduino RFID Attendance System",date:"07.2023",link:"https://github.com/Prathamesh-B/Arduino-RFID-Attendance-System",skills:["Arduino","RFID","C++","Android","CSV Export","IoT"],description:`An **RFID-based attendance system** using Arduino Uno and a custom Android app.
+- Option to **disable animations** in generated SVGs`,logo:"https://chesscom-stats-svg.vercel.app/favicon.ico",isExpanded:!1,images:["https://chesscom-stats-svg.vercel.app/stats?username=PrathamRex&theme=dark"]},{id:"rfid-attendance",title:"Arduino RFID Attendance System",date:"07.2023",link:"https://github.com/Prathamesh-B/Arduino-RFID-Attendance-System",skills:["Arduino","RFID","C++","Android","CSV Export","IoT"],description:`An **RFID-based attendance system** using Arduino Uno and a custom Android app.
 
 - Reduced attendance processing time by **70%**
 - Android app to view, track, and export attendance in **CSV format**
