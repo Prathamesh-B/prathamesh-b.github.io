@@ -1,7 +1,7 @@
 {
-  "name": "Prathamesh Bhalekar - Full Stack Developer & Software Engineer",
+  "name": "Prathamesh Bhalekar | Portfolio",
   "short_name": "Prathamesh Bhalekar",
-  "description": "Portfolio of Prathamesh Bhalekar - Full Stack Developer and Software Engineer from Pune, India",
+  "description": "Portfolio of Prathamesh Bhalekar, Full Stack Developer from Pune, India. Skilled in React, Python, Java, and modern web technologies.",
   "start_url": "/",
   "scope": "/",
   "icons": [
@@ -28,7 +28,13 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "orientation": "portrait-primary",
-  "categories": ["portfolio", "developer", "software", "fullstack", "programming"],
+  "categories": [
+    "portfolio",
+    "developer",
+    "software",
+    "fullstack",
+    "programming"
+  ],
   "lang": "en-US",
   "dir": "ltr"
 }
